@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everybody! =D
+I'm Gil and I develop free software with a focus on usability.
+
+I'm currently working on a cool game using [gargula](https://github.com/gilzoide/gargula), featuring a goat, lots of fun, nested structs, [raylib](https://www.raylib.com/) and [D](https://dlang.org/)!
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/gilzoide/donate)
+[![Buy me a coffee on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O73OS4E)
 
 <!--
 **gilzoide/gilzoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
