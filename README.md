@@ -1,7 +1,11 @@
 ### Hi everybody! =D
 I'm Gil and I develop free software with a focus on usability.
 
-I'm currently working on a cool game using [gargula](https://github.com/gilzoide/gargula), featuring a goat, lots of fun, nested structs, [raylib](https://www.raylib.com/) and [D](https://dlang.org/)!
+I am currently working on [Sneezing Goat](https://github.com/gilzoide/bode-espirratorio), a cool game featuring a goat, lots of fun and [Godot Engine](https://godotengine.org/)!
+
+I'm also a musician and have [some songs recorded](https://soundcloud.com/gilzoide/) 🎵
+
+Feel free to reach me about anything at all! ^^
 
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/gilzoide/donate)
 [![Buy me a coffee on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O73OS4E)
