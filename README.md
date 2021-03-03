@@ -1,7 +1,7 @@
 ### Hi everybody! =D
 I'm Gil and I develop free software with a focus on usability.
 
-I am currently working on [Sneezing Goat](https://github.com/gilzoide/bode-espirratorio), a cool game featuring a goat, lots of fun and [Godot Engine](https://godotengine.org/)!
+I am currently working on [Raise and Shine](https://github.com/gilzoide/raise-and-shine), a height map editor and normal map generator for sprites using 3D visualizations, made with [Godot Engine](https://godotengine.org/)!
 
 I'm also a musician and have [some songs recorded](https://soundcloud.com/gilzoide/) 🎵
 
