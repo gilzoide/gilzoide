@@ -2,7 +2,7 @@
 I'm Gil and I develop free software with a focus on usability.
 
 I am the author of some Godot plugins:
-- [Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript): a PluginScript for using Lua as a scripting language in Godot based on LuaJIT
+- [Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript): a PluginScript for using Lua as a scripting language in Godot 3.X based on LuaJIT
 - [Dockable Container](https://github.com/gilzoide/godot-dockable-container): dockable/tiling UI panels Container addon
 - [Dispatch Queue](https://github.com/gilzoide/godot-dispatch-queue): threaded and synchronous Dispatch Queues
 - [InputKeyEvent Grabber](https://github.com/gilzoide/godot-input-key-event-grabber): editor plugin with a button that grabs key events and populates an `InputEventKey` instance, great for creating `ShortCut` resources
@@ -22,6 +22,7 @@ I also make Unity plugins:
 - [TaskFactoryObject](https://github.com/gilzoide/TaskFactoryObject): `TaskFactory` Unity objects plus a collection of `TaskScheduler`s with optional limited concurrency
 - [Serializable Collections](https://github.com/gilzoide/unity-serializable-collections): serializable versions of `Dictionary`, `HashSet` and `KeyValuePair` for Unity 2020.1+
 - [Asset List](https://github.com/gilzoide/AssetList): `ScriptableObject` that automatically aggregates assets using `AssetDatabase.FindAssets`
+- [Gradient Rect](https://github.com/gilzoide/unity-gradient-rect): Component that draws a `Gradient` using Unity UI.
 
 I'm also a musician and have [some songs recorded](https://soundcloud.com/gilzoide/) 🎵
 
