@@ -27,6 +27,7 @@ I also make Unity plugins:
 - [Asset List](https://github.com/gilzoide/AssetList): `ScriptableObject` that automatically aggregates assets using `AssetDatabase.FindAssets`
 - [Gradient Rect](https://github.com/gilzoide/unity-gradient-rect): Unity UI component that generates meshes using `Gradient`s
 - [Rounded Corners](https://github.com/gilzoide/unity-rounded-corners): Unity UI component that generates meshes with rounded corners
+- [Flex UI](https://github.com/gilzoide/unity-flex-ui): Flexbox layout support for Unity UI using the Yoga layout engine 
 
 I'm also a musician and have [some songs recorded](https://soundcloud.com/gilzoide/) 🎵
 
