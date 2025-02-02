@@ -20,6 +20,7 @@ I'm Gil and I develop free software with a focus on usability.
 
 - [Easy Project Settings](https://github.com/gilzoide/unity-easy-project-settings): easily create custom Project Settings by adding the `[ProjectSettings]` attribute to your `ScriptableObject` subclass
 - [Flex UI](https://github.com/gilzoide/unity-flex-ui): Flexbox layout support for Unity UI using the Yoga layout engine
+- [Cloud Save](https://github.com/gilzoide/unity-cloud-save): Cloud Save common interface with implementations for Apple Game Center and Google Play Games
 - [Camera Viewport Rect](https://github.com/gilzoide/unity-camera-viewport-rect): automatically setup `Camera` viewports from `RectTransform`s
 - [Gesture Recognizers](https://github.com/gilzoide/unity-gesture-recognizers): touch/pointer gesture recognizer scripts based on `EventSystem` handlers or `Input` (Tap/Multitap, Long Press, Pan, Pinch, Twist, Swipe, Edge Pan)
 - [Update Manager](https://github.com/gilzoide/unity-update-manager): simple to use Update Manager pattern + Jobified Update for MonoBehaviours and pure C# classes alike
