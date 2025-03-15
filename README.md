@@ -4,8 +4,9 @@ I'm Gil and I develop free software with a focus on usability.
 <details>
 <summary><b>Godot addons</b></summary>
 
-- [Lua GDExtension](https://github.com/gilzoide/lua-gdextension): A native extension for using the Lua language in Godot 4.1.2+
-- [Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript): a PluginScript for using Lua as a scripting language in Godot 3.X based on LuaJIT
+- [Lua GDExtension](https://github.com/gilzoide/lua-gdextension): a native extension for using the Lua language in Godot 4.3+
+- [Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript): a PluginScript for using Lua as a scripting language in Godot 3 based on LuaJIT
+- [C# GDExtension Bindgen](https://github.com/gilzoide/godot-csharp-gdextension-bindgen): automatic C# bindings generator for GDExtension classes (Godot 4.4+)
 - [Dockable Container](https://github.com/gilzoide/godot-dockable-container): dockable/tiling UI panels Container addon
 - [Dispatch Queue](https://github.com/gilzoide/godot-dispatch-queue): threaded and synchronous Dispatch Queues
 - [CFFI GDExtension](https://github.com/gilzoide/cffi-gdextension): native extension for calling C functions via libffi in Godot 4.1+
