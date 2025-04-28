@@ -51,6 +51,18 @@ I'm Gil and I develop free software with a focus on usability.
 </details>
 
 <details>
+<summary><b>C/C++ libraries / Tools</b></summary>
+
+- [flyweight.hpp](https://github.com/gilzoide/flyweight.hpp): single header implementation of the Flyweight design pattern for C++11
+- [Dispatch Queue](https://github.com/gilzoide/cpp-dispatch-queue): Dispatch Queue / Thread Pool implementation for C++11
+- [functor2c](https://github.com/gilzoide/functor2c): single header templates for wrapping C++ functors as opaque userdata plus function pointers for C interop
+- [SQLiteVfs.hpp](https://github.com/gilzoide/sqlite-vfs-cpp): single header with classes for easily implementing SQLite VFS shims in C++
+- [cdedent](https://github.com/gilzoide/cdedent): pure C implementation of Python's textwrap.dedent, with C++ wrappers.
+- [file2c](https://github.com/gilzoide/file2c): Python script that generates C source files with global variables embedding binary/text file contents, with easy integration for CMake projects
+- [pega-texto](https://github.com/gilzoide/pega-texto): Parsing Expression Grammars (PEG) runtime engine for C
+</details>
+
+<details>
 <summary><b>Lua modules</b></summary>
 
 - [molde](https://github.com/gilzoide/molde): zero dependency, single file template engine for Lua 5.1+ with builtin sandbox support
@@ -58,15 +70,6 @@ I'm Gil and I develop free software with a focus on usability.
 - [wildcard_pattern](https://github.com/gilzoide/wildcard_pattern-lua): use shell-like wildcards as Lua string patterns with support for importing gitignore-like file content
 - [argmatcher](https://github.com/gilzoide/argmatcher): simple command line argument matcher for Lua
 - [nested](https://github.com/gilzoide/nested): generic nested data structure file format, where data is formed by nested lists with both sequential data and key-value paired data
-</details>
-
-<details>
-<summary><b>C/C++ libraries</b></summary>
-
-- [flyweight.hpp](https://github.com/gilzoide/flyweight.hpp): single header implementation of the Flyweight design pattern for C++11
-- [SQLiteVfs.hpp](https://github.com/gilzoide/sqlite-vfs-cpp): single header with classes for easily implementing SQLite VFS shims in C++
-- [cdedent](https://github.com/gilzoide/cdedent): pure C implementation of Python's textwrap.dedent, with C++ wrappers.
-- [pega-texto](https://github.com/gilzoide/pega-texto): Parsing Expression Grammars (PEG) runtime engine for C
 </details>
 
 <details>
