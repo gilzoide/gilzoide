@@ -26,8 +26,6 @@ I'm Gil and I develop free software with a focus on usability.
 - [Gesture Recognizers](https://github.com/gilzoide/unity-gesture-recognizers): touch/pointer gesture recognizer scripts based on `EventSystem` handlers or `Input` (Tap/Multitap, Long Press, Pan, Pinch, Twist, Swipe, Edge Pan)
 - [Update Manager](https://github.com/gilzoide/unity-update-manager): simple to use Update Manager pattern + Jobified Update for MonoBehaviours and pure C# classes alike
 - [SQLite-net](https://github.com/gilzoide/unity-sqlite-net): SQLite-net for Unity, supports Windows, Linux, macOS, iOS, tvOS, visionOS, Android and WebGL
-- [SQLite Asset](https://github.com/gilzoide/unity-sqlite-asset): read-only SQLite database assets for Unity with ScriptedImporters for ".sqlite", ".sqlite2" and ".sqlite3" files
-- [SQLite Asset - CSV](https://github.com/gilzoide/unity-sqlite-asset-csv): easily import ".csv" files as read-only SQLite database assets in Unity
 - [Key-Value Store for Unity](https://github.com/gilzoide/unity-key-value-store): Key-Value Store save system interface and implementations for Unity
 - [Texture Apply Async](https://github.com/gilzoide/unity-texture-apply-async): alternative to Texture2D.Apply() that doesn't require synchronizing with the render thread, avoiding stalls in the main thread
 - [Conditional Objects](https://github.com/gilzoide/unity-conditional-objects): modify `GameObject`s and `Component`s at Prefab/Scene import time, based on build configurations
