@@ -28,6 +28,7 @@ I'm Gil and I develop free software with a focus on usability.
 - [SQLite-net](https://github.com/gilzoide/unity-sqlite-net): SQLite-net for Unity, supports Windows, Linux, macOS, iOS, tvOS, visionOS, Android and WebGL
 - [Key-Value Store for Unity](https://github.com/gilzoide/unity-key-value-store): Key-Value Store save system interface and implementations for Unity
 - [Texture Apply Async](https://github.com/gilzoide/unity-texture-apply-async): alternative to Texture2D.Apply() that doesn't require synchronizing with the render thread, avoiding stalls in the main thread
+- [Camera FOV Fit](https://github.com/gilzoide/unity-camera-fov-fit): automatically adjust cameras' FOV to 3D objects bounds in Unity
 - [Conditional Objects](https://github.com/gilzoide/unity-conditional-objects): modify `GameObject`s and `Component`s at Prefab/Scene import time, based on build configurations
 - [Prefab Pool](https://github.com/gilzoide/unity-prefab-pool): Prefab instance pool that is configurable in the Inspector, supports any engine Object type and is available as a serializable C# class, MonoBehaviour and ScriptableObject
 - [Back Button Stack](https://github.com/gilzoide/unity-back-button-stack): easily manage a stack of objects that respond to the ESC button / Android Back button
