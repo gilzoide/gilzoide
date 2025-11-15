@@ -56,6 +56,7 @@ I'm Gil and I develop free software with a focus on usability.
 - [Dispatch Queue](https://github.com/gilzoide/cpp-dispatch-queue): Dispatch Queue / Thread Pool implementation for C++11
 - [functor2c](https://github.com/gilzoide/functor2c): single header templates for wrapping C++ functors as opaque userdata plus function pointers for C interop
 - [SQLiteVfs.hpp](https://github.com/gilzoide/sqlite-vfs-cpp): single header with classes for easily implementing SQLite VFS shims in C++
+- [soa.hpp](https://github.com/gilzoide/soa.hpp): Struct of Arrays (SoA) container template for C++20 that uses compile-time reflection to iterate over existing fields and access fields by name
 - [cdedent](https://github.com/gilzoide/cdedent): pure C implementation of Python's textwrap.dedent, with C++ wrappers.
 - [file2c](https://github.com/gilzoide/file2c): Python script that generates C source files with global variables embedding binary/text file contents, with easy integration for CMake projects
 - [pega-texto](https://github.com/gilzoide/pega-texto): Parsing Expression Grammars (PEG) runtime engine for C
